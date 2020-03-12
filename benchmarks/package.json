@@ -9,7 +9,7 @@
     "aphrodite": "^2.2.0",
     "classnames": "^2.2.5",
     "d3-scale-chromatic": "^1.2.0",
-    "emotion": "^9.2.5",
+    "emotion": "^10.0.0",
     "fela": "^6.1.9",
     "glamor": "2.20.40",
     "radium": "^0.24.1",
