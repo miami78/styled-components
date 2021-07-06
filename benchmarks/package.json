@@ -8,7 +8,7 @@
   "dependencies": {
     "aphrodite": "^2.2.0",
     "classnames": "^2.2.5",
-    "d3-scale-chromatic": "^1.2.0",
+    "d3-scale-chromatic": "^3.0.0",
     "emotion": "^9.2.5",
     "fela": "^6.1.9",
     "glamor": "2.20.40",
